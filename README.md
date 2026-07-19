@@ -29,13 +29,11 @@ The site's HTML entry (index.html) includes a page title and description:
 
 ## Demo
 
-Live demo: (replace with your live site URL)
-https://minazur-rahman.vercel.app/
+Live demo: https://minazur-rahman.vercel.app/
 
 Screenshot
 ![Screenshot of portfolio](public/preview.png)
 
-> Replace the demo URL and screenshot with the actual hosted URL and image path.
 
 ## Features
 - Clean, responsive layout (mobile-first)
