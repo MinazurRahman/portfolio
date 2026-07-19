@@ -30,7 +30,7 @@ The site's HTML entry (index.html) includes a page title and description:
 ## Demo
 
 Live demo: (replace with your live site URL)
-https://your-portfolio-domain.example
+https://minazur-rahman.vercel.app/
 
 Screenshot
 ![Screenshot of portfolio](public/preview.png)
