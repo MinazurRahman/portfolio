@@ -43,7 +43,7 @@ export default function About() {
             <div className="glass rounded-2xl p-8">
               <p className="text-gray-300 leading-relaxed text-base sm:text-lg">
                 I&apos;m a Computer Science undergraduate at{" "}
-                <span className="text-white font-medium">BRAC University</span>{" "}
+                <span className="text-white font-medium">University of Asia Pacific</span>{" "}
                 with a deep passion for full-stack web development and research.
                 I specialize in building end-to-end solutions using the{" "}
                 <span className="text-cyan-400 font-medium">MERN stack</span> and{" "}
